@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "sciplot"]
 	path = sciplot
-	url = https://github.com/cran/sciplot
+	url = https://github.com/mutualism/sciplot
